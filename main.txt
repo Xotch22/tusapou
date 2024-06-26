@@ -68,7 +68,34 @@ Comedero: Situado en el centro de la cocina, el comedero es donde tuzita consume
 Inserción de movimientos ( podrás arrastrar a la tusa en cualquier parte de la pantalla)
 
 Inserción de movimientos ( podrás arrastrar el jabon en cualquier parte de la pantalla )
+----------------------------------------JUEGO JARDIN..............................--------------------------
 
+# Accedemos a esta ventana con el boton < juegos> ubicado en el dormitorio.
 
+#proposito:  El jardin se tiene que atender regando las flores cuando esten secas para que podamos obtener monedas y se veas lo mas bonitas posibles.  
+El jardín tambien se puede personalizar, basta con ir a tienda  escojer y pagar en  la opcion Flores ( n tipos) que se van desbloqueando mediante un incremeto de (n) numero de  riegos  
 
+# Interfaz inicial: Fondo de dia  este va cambiando. 
+      # Establecer cambio de fondo de dia cada " (n) hrs"
+      # Establecer cambio de fondo de dia noche "(n) hrs"
+
+#creacion de botones para comenzar el juego
+     # Boton <nube>  se desliza a la parte superior de las plantas para regarlas
+            #insertar contador para que se puedan regar cada (n) min
+
+     #boton <tienda> se presiona para ir a cabiar el tipo de flores 
+     #boton <flores> se presiona para elegir la flor deslizando hacia la derecha
+     # se asigna incremeto de (n) en (n)  riegos  para cada flor 
+          # rosas flores predeterminadas para iniciar el juego
+          # tulipanes desbloquear despues de (n) numero de  riegos 
+          # margaritas desbloquear despues de (n) nuemero riegos 
+          # orquideas desbloquear despues de (n) numero riegos 
+          # girasoles desbloquear despues de (n) numero riegos
+          # nochebuenas desbloquear despues de (n) numero  riegos  
+   
+ #creacion de registro de monedas obtenidas
+     # barra de estado en la parte superior izquieda  que indique cuantas monedas lleva 
+       #insertar funcion de suma de monedas
+
+#boton <dormitorio> presionar para salir de jardin y volver al dormitorio. 
 
